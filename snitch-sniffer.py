@@ -1,4 +1,3 @@
-#Euler project 1
 class Main():
 
 	def __init__(self):
